@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_thread">Start Child Thread</string>
+    <string name="hello">Hello World, HandlerThread!</string>
+    <string name="app_name">Child Thread via Handler</string>
+	<color name="blue">#0000ff</color>
+</resources>

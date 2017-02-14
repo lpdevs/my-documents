@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Say Hello Application</string>
+    <string name="window_text">
+        Press the button below to receive
+        a friendly greeting from Android.
+    </string>
+    <string name="button_label">Show Greeting</string>
+    <string name="greeting_text">Hello from Android!</string>
+</resources>

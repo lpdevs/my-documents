@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in nested layouts example: All are black.
+         However, the colored version in res/values/colors.xml
+         sets the colors to red, orange, yellow, green, blue, and violet.
+         This shows each leaf-level Layout in a different color to
+         better show the nesting. -->
+    <color name="color_1">#000000</color>
+    <color name="color_2">#000000</color>
+    <color name="color_3">#000000</color>
+    <color name="color_4">#000000</color>
+    <color name="color_5">#000000</color>
+    <color name="color_6">#000000</color>
+</resources>

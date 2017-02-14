@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+@Author Paresh N. Mayani
+@Web http://www.technotalkative.com/ 
+ -->
+<resources>
+    <string name="hello">Hello World, DatePickerDemoActivity!</string>
+    <string name="app_name">DatePickerDemo</string>
+    <string name="strSelectedDate">Selected date =&gt; %s</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in nested layouts example: red, orange, yellow, green, blue, and violet.
+         There is also a version of colors.xml in res/values-qq/ that sets all of these
+         entries to black. The different colors are just to show the leaf-level nested
+         layouts more clearly.
+    -->
+    <color name="color_1">#ff0000</color>
+    <color name="color_2">#ffa500</color>
+    <color name="color_3">#ffff00</color>
+    <color name="color_4">#008000</color>
+    <color name="color_5">#0000ff</color>
+    <color name="color_6">#ee82ee</color>
+</resources>

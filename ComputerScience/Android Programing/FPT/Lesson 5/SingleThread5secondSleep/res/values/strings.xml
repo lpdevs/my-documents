@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="response_button">Testing Response</string>
+    <string name="hello">Hello World, HandlerThread!</string>
+    <string name="app_name">Response Testing</string>
+</resources>

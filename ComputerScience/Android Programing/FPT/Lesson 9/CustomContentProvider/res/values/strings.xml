@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string name="app_name">Content Provider</string>
+		<string name="ok">OK</string>
+		<string name="cancel">Cancel</string>
+		<string name="add_title">Add Song</string>
+		<string name="delete_title">Delete Song: Are You Sure?</string>
+		<string name="display">Display Name:</string>
+		<string name="value">Author:</string>
+</resources>

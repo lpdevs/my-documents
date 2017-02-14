@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen titles that are referred to inside AndroidManifest.xml
+         For simplicity, the Widgets have their labels hard-coded inside the layout files,
+         rather than being put here.
+     -->
+    <string name="app_name">Examples of Layouts</string>
+    <string name="nested_layouts_app_name">Using Nested Layouts</string>
+    <string name="layout_weights_app_name">Using Layout Weights</string>
+    <string name="relative_layouts_app_name">Using Relative Layouts</string>
+    <string name="table_layouts_app_name">Using Table Layouts</string>
+</resources>

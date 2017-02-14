@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">PreferencesB</string> 
+  <string name="checkbox">Checkbox:</string> 
+  <string name="ringtone">Ringtone:</string> 
+  <string name="checkbox2">Checkbox #2:</string> 
+  <string name="edit_pref">Edit Preferences</string>
+</resources>

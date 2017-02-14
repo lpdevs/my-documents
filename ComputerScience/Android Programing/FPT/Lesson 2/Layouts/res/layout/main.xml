@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:text="Nested Layouts (Colored Layouts)"
+        android:onClick="showNestedLayouts"/>
+    <Button 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:text="Nested Layouts (No Colors)"
+        android:onClick="showNestedLayoutsNoColors"/>
+    <Button 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:text="Using Layout Weights"
+        android:onClick="showLayoutWeights"/>
+    <Button 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:text="Relative Layouts"
+        android:onClick="showRelativeLayouts"/>
+    <Button 
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent" 
+        android:text="Table Layouts"
+        android:onClick="showTableLayouts"/>
+</LinearLayout>

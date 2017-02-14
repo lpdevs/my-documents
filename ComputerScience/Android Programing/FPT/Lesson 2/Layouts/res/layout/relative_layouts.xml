@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView android:id="@+id/behind"
+              android:layout_width="match_parent" 
+              android:layout_height="100dp"
+              android:background="#ff0000"
+              android:textColor="#ffff00"
+              android:textSize="42dp"
+              android:text="Behind" 
+              android:gravity="center"/>
+    <TextView android:layout_alignTop="@id/behind"
+              android:layout_width="wrap_content" 
+              android:layout_height="wrap_content"
+              android:background="#00ffff"
+              android:textColor="#000000"
+              android:textSize="18dp"
+              android:text="On Top"
+              android:layout_marginTop="25dp"
+              android:layout_centerHorizontal="true"/>
+    <Button android:id="@+id/image_button"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Search Images" 
+            android:layout_alignParentBottom="true" 
+            android:layout_alignParentRight="true"/>
+    <Button android:layout_alignBottom="@id/image_button"
+            android:layout_toLeftOf="@id/image_button"
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:text="Search Web"/>
+    <EditText android:layout_width="match_parent" 
+              android:layout_height="wrap_content" 
+              android:layout_above="@id/image_button" 
+              android:layout_alignRight="@id/image_button"/>
+
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">SimpleDialer</string>
+    <string name="app_name">Simple Dialer</string>
+    <string name="main_label">My Friends</string>
+</resources>
