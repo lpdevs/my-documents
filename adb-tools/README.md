@@ -6,4 +6,8 @@
   
   * For more informations: [https://developer.android.com/studio/command-line/adb.html](https://developer.android.com/studio/command-line/adb.html)
   
+  * [The Most Useful Things You Can Do with ADB and Fastboot on Android](http://lifehacker.com/the-most-useful-things-you-can-do-with-adb-and-fastboot-1590337225).
+  
+  
+  
   
